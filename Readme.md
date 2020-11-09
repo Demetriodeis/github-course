@@ -1,1 +1,3 @@
-# GIT HUB - Curso para iniciante
+# GIT Course
+
+This is a repository for training the functionality of gitHUb.
